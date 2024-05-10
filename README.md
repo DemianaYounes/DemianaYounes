@@ -14,7 +14,6 @@
 
 - 🏢 I'm a Embedded Software Engineer 
 - 👨‍💻 As a Fresh Graduate from Communication and Electronics Department , I'm constantly learning and exploring new technologies to improve my skills.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 ### Connect with Me :
 
