@@ -25,14 +25,13 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![c](https://img.shields.io/badge/-c-05122A?style=flat&logo=c)&nbsp;
+![c](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+![c](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)&nbsp;
 ![AVR](https://img.shields.io/badge/-AVR-05122A?style=flat&logo=AVR&logoColor=563D7C)&nbsp;
-![Autosar](https://img.shields.io/badge/-Autosar-05122A?style=flat&logo=Autosar)&nbsp;
 ![ARM](https://img.shields.io/badge/-ARM-05122A?style=flat&logo=ARM&logoColor=1572B6)&nbsp;
+![Autosar](https://img.shields.io/badge/-Autosar-05122A?style=flat&logo=Autosar)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Microship Studio](https://img.shields.io/badge/-Microship%20Studio-05122A?style=flat&logo=Microship-studio&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
 
