@@ -1,6 +1,4 @@
 
-//<img align="right" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47zvyux1wokeuujdog7jj2yf54z4nini84p97xvmqx&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coder GIF" width="380" height="280">
-
 <h3 align="center">
   Welcome to Demiana Younes's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
